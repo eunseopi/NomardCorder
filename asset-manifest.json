@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NomardCorder/static/css/main.5778cbe6.css",
+    "main.js": "/NomardCorder/static/js/main.a09be520.js",
+    "index.html": "/NomardCorder/index.html",
+    "main.5778cbe6.css.map": "/NomardCorder/static/css/main.5778cbe6.css.map",
+    "main.a09be520.js.map": "/NomardCorder/static/js/main.a09be520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5778cbe6.css",
+    "static/js/main.a09be520.js"
+  ]
+}
